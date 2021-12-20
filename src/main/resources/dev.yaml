@@ -1,0 +1,9 @@
+http:
+  port: "8081"
+
+jms:
+  who.broker.url: "tcp://localhost:61616"
+  who.username: "admin"
+  who.password: "![qbNVHoyilMguV3wOS45CFQ==]"
+  who.covid.case.queue: "Q.WHO.COVID.CASE.REPORT"
+    
